@@ -6,6 +6,7 @@
 * E-mail: dzmitrycharlianok@gmail.com
 * Telegram: @CharlianokDzmitry
 * Discord: Cherlenok Dmitry (@Charlianok)
+
 **************
 
 ## 3. Brief information about myself
@@ -19,6 +20,7 @@ I have been studying the front-end on my own for about two years, but so far I h
 * Vue - basics
 * GitHub
 * VSCode 
+
 ***********
 
 ## 5. Code example:
