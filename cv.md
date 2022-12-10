@@ -16,7 +16,7 @@ I have been studying the front-end on my own for about two years, but so far I h
 * Vue - basics
 * GitHub
 * VSCode 
-------------
+- ----------
 ## 5. Code example:
 function numberToString(num) {
   return String(num);
