@@ -18,12 +18,6 @@ body {
   background-size: cover;
 }
 
-.header, 
-.main, 
-.footer {
-  border: 1px solid red;
-}
-
 .container {
   max-width: 1440px;
   margin: 0 auto;
@@ -55,6 +49,10 @@ body {
 .main-container {
   display: flex;
   flex-wrap: wrap;
+  margin-top: 20%;
+  margin-bottom: 20%;
+  font-size: 20px;
+  color: red;
 }
 
 .section {
@@ -76,7 +74,37 @@ body {
   text-decoration: none;  
   transition: color 0.5s;
 }
-
 .main-link:hover {
   color:#ff7400;
+}
+
+.contacts-link {
+  color: #ffbb00;
+  text-decoration: none;  
+  transition: color 0.5s;
+}
+.contacts-link:hover {
+  color:#ff7400;
+}
+
+#code {
+  font-weight: bold;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 1%;
+}
+
+.footer-link {
+  color: white;
+  text-decoration: none;  
+  transition: color 0.5s;
+}
+.footer-link:hover {
+  color:grey;
 }
