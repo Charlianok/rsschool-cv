@@ -20,7 +20,6 @@ I studied frontend by myself. Then I learned about RS School courses. I passed s
 * Git
 * VSCode
 * Webpack
-* Angular
 * Figma
 
 ## 5. Code example
